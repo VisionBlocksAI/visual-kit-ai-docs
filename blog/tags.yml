@@ -17,3 +17,8 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+visionfly:
+  label: VisionFly
+  permalink: /visionfly
+  description: About VisionFly as a platform
